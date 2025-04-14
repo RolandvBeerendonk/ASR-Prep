@@ -5,6 +5,7 @@ The project is divided into a layout that aligns with a MVC Architecture(Model, 
 
 Now I will walk through the "Main.ipynb" file to illustrate how to use the project. 
 Th %run commands are used to import modules when executing in jupyter notebook. When using Visual Studio Code this line can be interchanged by import ASRmodel, import ASRView and import ASRcontroller:
+
 ![image](https://github.com/user-attachments/assets/17b01521-0454-4684-b538-390893ef6471). 
 
 
