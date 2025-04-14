@@ -8,4 +8,11 @@ Th %run commands are used to import modules when executing in jupyter notebook. 
 
 ![image](https://github.com/user-attachments/assets/17b01521-0454-4684-b538-390893ef6471). 
 
+Stocks within the portfolio have the characteristics: Ticker, Sector, Asset Class, Quantity Purchased and Purchase Price. Stocks can be added using the syntax controller.add_stock() and examples are shown beneath:
+
+![image](https://github.com/user-attachments/assets/27fee9fb-ee73-4870-9aed-f9a96a57d598)
+
+
+
+
 
